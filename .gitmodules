@@ -4,3 +4,4 @@
 [submodule "third_party/icmd"]
 	path = third_party/icmd
 	url = https://github.com/lechium/icmd
+	branch = master
